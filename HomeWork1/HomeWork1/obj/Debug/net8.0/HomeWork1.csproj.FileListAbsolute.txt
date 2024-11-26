@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.AssemblyInfo.cs
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.exe
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.deps.json
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.runtimeconfig.json
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.dll
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.pdb
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.dll
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\refint\HomeWork1.dll
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.pdb
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.genruntimeconfig.cache
+C:\Users\elsad\source\repos\HomeWork1\HomeWork1\obj\Debug\net8.0\ref\HomeWork1.dll
